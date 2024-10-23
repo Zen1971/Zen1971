@@ -1,6 +1,5 @@
 👋 Salut, je suis Stéphane
 - 🌱 J'apprends actuellement à devenir DEVELOPPEUR FULL STACK
-- 😄 Pronoms : Zen1971
 
 
 ## 🌐 Socials:
