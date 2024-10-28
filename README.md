@@ -1,5 +1,6 @@
 👋 Salut, je suis Stéphane
 - 🌱 J'apprends actuellement à devenir DEVELOPPEUR FULL STACK
+  
   <img class="pillar-post-header-image" src="https://www.hubspot.com/hs-fs/hubfs/media/codejavascriptarray.jpeg?width=595&amp;height=400&amp;name=codejavascriptarray.jpeg" alt="code javascript pour créer un tableau/array" width="595" height="400" srcset="https://www.hubspot.com/hs-fs/hubfs/media/codejavascriptarray.jpeg?width=298&amp;height=200&amp;name=codejavascriptarray.jpeg 298w, https://www.hubspot.com/hs-fs/hubfs/media/codejavascriptarray.jpeg?width=595&amp;height=400&amp;name=codejavascriptarray.jpeg 595w, https://www.hubspot.com/hs-fs/hubfs/media/codejavascriptarray.jpeg?width=893&amp;height=600&amp;name=codejavascriptarray.jpeg 893w, https://www.hubspot.com/hs-fs/hubfs/media/codejavascriptarray.jpeg?width=1190&amp;height=800&amp;name=codejavascriptarray.jpeg 1190w, https://www.hubspot.com/hs-fs/hubfs/media/codejavascriptarray.jpeg?width=1488&amp;height=1000&amp;name=codejavascriptarray.jpeg 1488w, https://www.hubspot.com/hs-fs/hubfs/media/codejavascriptarray.jpeg?width=1785&amp;height=1200&amp;name=codejavascriptarray.jpeg 1785w" sizes="(max-width: 595px) 100vw, 595px">
 
 ## 🌐 Socials:
