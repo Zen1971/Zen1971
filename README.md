@@ -1,8 +1,5 @@
 👋 Salut, je suis Stéphane
 - 🌱 J'apprends actuellement à devenir DEVELOPPEUR FULL STACK
-  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5971d3f78659d0704007f5c6dc2f4b7e67a6e639d20fbd0ab8b889689043d054/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78543949677a6f4b6e77464e6d49535238492f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/5971d3f78659d0704007f5c6dc2f4b7e67a6e639d20fbd0ab8b889689043d054/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78543949677a6f4b6e77464e6d49535238492f67697068792e676966" alt="Hello" data-canonical-src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/st%C3%A9phane-le-guern-a84b31263/?midSig=0t9kn_s-H3Zro1&eid=hz02is-m0xw66nt-d7&midToken=AQFo3jI99MtD6g&trkEmail=eml-security_two_step_verification_login_attempt-header-0-profile_glimmer-null-hz02is~m0xw66nt~d7-null-null&trk=eml-security_two_step_verification_login_attempt-header-0-profile_glimmer&originalSubdomain=fr)
