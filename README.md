@@ -1,5 +1,6 @@
 👋 Salut, je suis Stéphane
 - 🌱 J'apprends actuellement à devenir DEVELOPPEUR FULL STACK
+- https://camo.githubusercontent.com/5971d3f78659d0704007f5c6dc2f4b7e67a6e639d20fbd0ab8b889689043d054/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78543949677a6f4b6e77464e6d49535238492f67697068792e676966
 
 
 ## 🌐 Socials:
