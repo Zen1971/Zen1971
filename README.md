@@ -1,7 +1,7 @@
 👋 Salut, je suis Stéphane
 - 🌱 J'apprends actuellement à devenir DEVELOPPEUR FULL STACK
   
-<img class="pillar-post-header-image" src="https://www.hubspot.com/hs-fs/hubfs/media/codejavascriptarray.jpeg?width=595&amp;height=400&amp;name=codejavascriptarray.jpeg" alt="code javascript pour créer un tableau/array" width="595" height="400" srcset="https://www.hubspot.com/hs-fs/hubfs/media/codejavascriptarray.jpeg?width=298&amp;height=200&amp;name=codejavascriptarray.jpeg 298w, https://www.hubspot.com/hs-fs/hubfs/media/codejavascriptarray.jpeg?width=595&amp;height=400&amp;name=codejavascriptarray.jpeg 595w, 
+<img class="pillar-post-header-image" src="https://www.hubspot.com/hs-fs/hubfs/media/codejavascriptarray.jpeg?width=595&amp;height=400&amp;name=codejavascriptarray.jpeg" alt="code javascript pour créer un tableau/array" width="595" height="400" srcset="https://www.hubspot.com/hs-fs/hubfs/media/codejavascriptarray.jpeg?width=298&amp;height=200&amp;
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/st%C3%A9phane-le-guern-a84b31263/?midSig=0t9kn_s-H3Zro1&eid=hz02is-m0xw66nt-d7&midToken=AQFo3jI99MtD6g&trkEmail=eml-security_two_step_verification_login_attempt-header-0-profile_glimmer-null-hz02is~m0xw66nt~d7-null-null&trk=eml-security_two_step_verification_login_attempt-header-0-profile_glimmer&originalSubdomain=fr)
