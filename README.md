@@ -1,4 +1,4 @@
-#👋 Salut, je suis Stéphane
+# 👋 Salut, je suis Stéphane
 # Je suis resté 28 ans dans la même entreprise et la dernière mission qui m’a été attribuée (key user) lors de la mise en place d’un nouvel ERP a été le déclic pour commencer une reconversion dans le développement web.
 # 🎯 Mon objectif à terme est de participer à la création de solutions logistiques. 
 # Mon parcours professionnel met en lumière mon adaptabilité et ma soif d’apprendre. Aujourd’hui j’ai besoin de vous pour continuer à me développer.
