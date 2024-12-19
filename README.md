@@ -19,3 +19,7 @@
 [![](https://visitcount.itsvg.in/api?id=Zen1971&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Projets à venir :
+- portfolio
+- page web pour mon club de foot (présentation de l'équipe et prise en ligne d'inscription pour notre vide-greniers)
+- API qui recense les lieux où se trouvent du mobilier urbain anti SDF
