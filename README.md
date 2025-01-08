@@ -22,5 +22,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## Projets :
 - Portfolio
-- Page web pour mon association (présentation de l'équipe de foot, présentation de notre vide-greniers et enregistrement des inscriptions)
+- Page web pour mon association (présentation de l'équipe de foot, présentation du vide-greniers et enregistrement des inscriptions)
 - API qui recense les lieux où se trouvent du mobilier urbain anti SDF
