@@ -23,4 +23,4 @@
 ## Projets :
 - Portfolio
 - Page web pour mon association (qui sommes-nous, présentation du vide-greniers et enregistrement des inscriptions)
-- API qui recense les lieux où se trouvent du mobilier urbain anti SDF
+- API qui recense les lieux où se trouvent du mobilier urbain anti SDF (à présenter aux associations)
